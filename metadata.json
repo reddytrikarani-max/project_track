@@ -1,0 +1,6 @@
+{
+  "name": "ProjectDrishti - Infrastructure Monitoring Portal",
+  "description": "Centralized infrastructure project monitoring, Capex expenditure tracking, early-warning risk radar, and AI corrective intelligence for large-scale public works.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
